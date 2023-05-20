@@ -1,2 +1,2 @@
-哈哈哈哈
-就将计就计
+再传完其他文件时我希望另外传一个文件出现了，error: failed to push some refs to 'https://github.com/17723757592/just-keep-going.git'的问题，问题原因：远程库与本地库不一致造成的，在hint中也有提示把远程库同步到本地库就可以了；解决办法：git pull --rebase origin master
+然后就可以$ git push origin master
